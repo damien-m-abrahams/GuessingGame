@@ -5,3 +5,5 @@ In this example there is a selection of animals to choose from and the game trie
 by asking a series of questions with yes or no answers.
 
 Each animal is associated with a collection of facts.
+
+The starting point to examine the code are the EngineTests
